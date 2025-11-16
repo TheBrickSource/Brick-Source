@@ -1,9 +1,44 @@
 {
-    "name": "Brick Source",
-    "subtitle": "A source for apps, games, emulators, and much more!",
-    "description": "Welcome to the Brick Source! Here you'll find all of the apps on the Brick Source like Apps, Games, Emulators, and so much more!",
-    "iconURL": "https://i.imgur.com/BlWaNsH.png",
-    "website": "https://github.com/TheBrickSource/Brick-Source",
-    "tintColor": "#905944",
-    "featuredApps": []
+  "name": "Brick Source",
+  "subtitle": "A source for apps, games, emulators, and much more!",
+  "description": "Welcome to the Brick Source! Here you'll find all of the apps on the Brick Source like Apps, Games, Emulators, and so much more!",
+  "iconURL": "https://i.imgur.com/BlWaNsH.png",
+  "website": "https://github.com/TheBrickSource/Brick-Source",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#905944",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Jitterbug",
+      "bundleIdentifier": "com.osy86.JitterbugLite",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Jitterbug is an iOS app that lets you to wirelessly connect to another iOS device (neither are jailbroken) and then launch an app on the connected iOS device with JIT enabled. This can be used with UTM or DolphiniOS or other supported apps for faster emulation speed.",
+      "iconURL": "https://i.imgur.com/Pmg7Cjz.png",
+      "tintColor": "#65c464",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/TheBrickSource/Brick-Source/raw/refs/heads/main/JitterbugLite.ipa",
+          "size": 12600000,
+          "version": "1.3.1",
+          "buildVersion": null,
+          "date": "2025-11-16T00:56:00-05:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "Discover iOS devices on the local network."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
 }
