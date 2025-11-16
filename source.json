@@ -1,12 +1,10 @@
 {
-  "name": "My Example Source",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
-  "tintColor": "#6156e2",
-  "featuredApps": [],
-  "apps": [],
-  "news": []
+    "name": "Brick Source",
+    "subtitle": "A source for apps, games, emulators, and much more!",
+    "description": "Welcome to the Brick Source! Here you'll find all of the apps on the Brick Source like Apps, Games, Emulators, and so much more!",
+    "iconURL": "https://i.imgur.com/BlWaNsH.png",
+    "website": "https://github.com/TheBrickSource/Brick-Source",
+    "patreonURL": "",
+    "tintColor": "#905944",
+    "featuredApps": []
 }
